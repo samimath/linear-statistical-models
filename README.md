@@ -1,2 +1,2 @@
 # linear-statistical-models
-coursework for Math 539
+coursework for teaching Math 539
